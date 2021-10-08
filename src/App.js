@@ -16,7 +16,6 @@ function App() {
   const StyledAppDiv = styled.div`
     color: white;
     text-align: center;
-    // border: 5px solid yellow;
     padding-bottom: 3em;
     display: flex;
     flex-direction: column;
@@ -30,16 +29,13 @@ function App() {
 
   const StyledH1 = styled.h1`
     font-size: 3.2em;
-    // border: 5px solid green;
     text-transform: uppercase;
-    // font-family: 'Trebuchet MS', san-serif;
     font-family: 'Copperplate', fantasy;
   `;
 
   const StyledH2 = styled.h2`
     font-size: 2rem;
     font-family: 'Garamond', serif;
-    // border: 5px solid blue;
     margin-top: 0.1rem;
     text-transform: uppercase;
   `;
@@ -48,9 +44,7 @@ function App() {
     font-size: 2.5em;
     font-style: italic;
     font-family: 'Brush Script MT', cursive;
-    // border: 5px solid pink;
     margin-top: 0.1rem;
-
   `;
 
   return (
