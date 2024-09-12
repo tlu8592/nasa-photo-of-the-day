@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.iliketowastemytime.com/sites/default/files/outer-space-hd-wallpaper.jpg");
+  width: 100%;
 }
 
 code {
